@@ -17,7 +17,7 @@ Refactor the code of a website created by Horiseon by organizing code into appro
 
 
 
-
+![Refactored Horiseon Site](https://user-images.githubusercontent.com/95611384/145898986-72de52e8-8e90-490f-bc4d-b586da518c48.png)
 
 
 
