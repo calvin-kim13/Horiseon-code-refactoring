@@ -5,7 +5,7 @@ Refactor the code of a website created by Horiseon by organizing code into appro
 ### Original Horiseon Website
 
 
-
+https://github.com/calvin-kim13/Horiseon-code-refactoring/blob/main/assets/screenshots/Original%20Horiseon%20Site.png
 
 
 ### Refactored Horiseon Website
