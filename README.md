@@ -5,10 +5,18 @@ Refactor the code of a website created by Horiseon by organizing code into appro
 ### Original Horiseon Website
 
 
-https://github.com/calvin-kim13/Horiseon-code-refactoring/blob/main/assets/screenshots/Original%20Horiseon%20Site.png
+
+
+![Original Horiseon Site (1)](https://user-images.githubusercontent.com/95611384/145898706-bd2d95ca-fbf8-4705-91d8-6cb9fbda4b08.png)
+
+
 
 
 ### Refactored Horiseon Website
+
+
+
+
 
 
 
