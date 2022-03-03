@@ -1,27 +1,48 @@
-# Objective
-Refactor the code of a website created by Horiseon by organizing code into appropriate html semantics and by condensing and reorganizing css elements. Complete this task while maintaining the same look of the website.
+# HORISEON CODE REFACTORING
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Screenshot: 
-### Original Horiseon Website
+## Description
 
+This is a code refactoring project that deals with old, inefficient, and broken code. The main technologies or languages used were CSS3 and HTML5. Semantic HTML was used to refactor the older code and used more efficient code in both HTML and CSS to produce less lines of code.
 
-![Original Horiseon Site (1)](https://user-images.githubusercontent.com/95611384/145898706-bd2d95ca-fbf8-4705-91d8-6cb9fbda4b08.png)
+## Table of Contents
 
+Use these links to navigate through this README.
 
-### Refactored Horiseon Website
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
+## Installation
 
-![Refactored Horiseon Site](https://user-images.githubusercontent.com/95611384/145898986-72de52e8-8e90-490f-bc4d-b586da518c48.png)
+To install this application, open `terminal` and clone in a new directory.
+ 
+    git clone  https://github.com/calvin-kim13/Horiseon-code-refactoring.git
 
+Or, simply fork the repository.
 
-## Refactoring Updates: HTML
-The code was organized and changed into proper html semantics and made it more organized by grouping certain classes as one. Also, h4 tag was created to create a title for the benefits section in the side.
+## Usage
 
-## Refactoring Updates: CSS
-I made the initial css attributes more organized by grouping related attributes together and by adding comments. I also made it follow sequential order to the html code. Also, some css attributes were compressed so that it be would more efficient.
+Once the application is cloned or forked, open the folder with Visual Studio Code, then apply changes to the code.
 
-## Live Link:
-### Published Website
-https://calvin-kim13.github.io/Horiseon-code-refactoring/
-### Github Repository
-https://github.com/calvin-kim13/Horiseon-code-refactoring
+### Screen shot of an example:
+![Alt text](https://user-images.githubusercontent.com/95611384/145898986-72de52e8-8e90-490f-bc4d-b586da518c48.png?raw=true "Optional Title")
+
+## LIVE
+| DEPLOYMENT | URL | STATUS |
+| ---------- | --- | ------ |
+| Repository  | [GitHub Rep](https://github.com/calvin-kim13/Horiseon-code-refactoring) |  ACTIVE 🟢   |
+| Published Page | [Horiseon Page](https://calvin-kim13.github.io/Horiseon-code-refactoring/) | ACTIVE 🟢  |
+
+## Credits
+
+- N/A
+
+## License
+
+This application is covered under MIT License    
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+©2022 Calvin Kim
