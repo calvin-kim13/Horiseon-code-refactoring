@@ -18,7 +18,7 @@ Use these links to navigate through this README.
 
 To install this application, open `terminal` and clone in a new directory.
  
-    git clone  https://github.com/calvin-kim13/Horiseon-code-refactoring.git
+    git clone https://github.com/calvin-kim13/Horiseon-code-refactoring.git
 
 Or, simply fork the repository.
 
